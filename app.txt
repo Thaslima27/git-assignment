@@ -1,2 +1,2 @@
-AAA from DEV
-New feature addes from worker branch
+conflict resolved successfully
+New feature added from worker branch
